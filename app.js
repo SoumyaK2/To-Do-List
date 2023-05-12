@@ -33,6 +33,13 @@ app.post("/", (req, res) => {
 
 })
 
+app.post("/delete",(req,res)=>{
+    const delItem= req.body.chackBox;
+    
+    items.splice(delItem, 1);
+    res.redirect("/");
+})
+
 
 
 
