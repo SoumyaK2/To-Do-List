@@ -12,11 +12,11 @@ First you have to download your node_modules using 'npm install', then add your 
 All you have to do is write localhost/[Your page name] as the URL.
 
 Ex :
-    localhost/work
+localhost/work
     
-    ![Screenshot (128)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/5f791fbf-d72b-4286-b867-1b32cee2521e)
+![Screenshot (128)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/5f791fbf-d72b-4286-b867-1b32cee2521e)
 
-    localhost/home
+ localhost/home
     
-    ![Screenshot (129)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/d91c909e-d79e-40ed-b022-1b64501ee026)
+![Screenshot (129)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/d91c909e-d79e-40ed-b022-1b64501ee026)
 
