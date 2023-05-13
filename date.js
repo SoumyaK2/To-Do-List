@@ -1,7 +1,6 @@
 
 
-exports.getDate=  function(){
-    
+exports.getDate=  function(){    
     var today = new Date();
     var options = {
         weekday: "long",
@@ -14,8 +13,7 @@ exports.getDate=  function(){
 
 
 
-exports.getDay= function(){
-    
+exports.getDay= function(){    
     var today = new Date();
     var options = {
         weekday: "long",        
