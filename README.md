@@ -20,3 +20,8 @@ localhost/work
     
 ![Screenshot (129)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/d91c909e-d79e-40ed-b022-1b64501ee026)
 
+# Connected with Dynamic DataBase
+
+Since the application is connected to MongoDB Atlas, you can write whatever you want and return later, it will remain the same.
+
+![Screenshot (129)](https://github.com/SoumyaK2/To-Do-List/assets/126533828/1d96f644-5f05-4b1e-aa3e-72509cfca3c8)
